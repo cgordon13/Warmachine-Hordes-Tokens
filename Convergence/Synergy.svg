@@ -16,7 +16,7 @@
    version="1.1"
    id="svg5730"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Convergence3.svg">
+   sodipodi:docname="Synergy.svg">
   <defs
      id="defs5724" />
   <sodipodi:namedview
@@ -36,7 +36,9 @@
      inkscape:window-height="1089"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false" />
   <metadata
      id="metadata5727">
     <rdf:RDF>
@@ -108,6 +110,28 @@
            x="219.21593"
            y="86.124031"
            style="stroke-width:0.96641636px;font-size:10.3084411px;">Fonts: 12 or 16</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:14.49624538px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96641636px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="231.6413"
+         y="101.48315"
+         id="text12253"><tspan
+           sodipodi:role="line"
+           id="tspan12251"
+           x="231.6413"
+           y="101.48315"
+           style="stroke-width:0.96641636px">Impact</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.61688232px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.96641636px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="120.63831"
+         y="59.199108"
+         id="text12257"><tspan
+           sodipodi:role="line"
+           id="tspan12255"
+           x="120.63831"
+           y="59.199108"
+           style="stroke-width:0.96641636px">SYNERGY</tspan></text>
     </g>
   </g>
 </svg>
