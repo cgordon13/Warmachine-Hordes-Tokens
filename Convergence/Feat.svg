@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="37.717075mm"
-   height="37.717075mm"
-   viewBox="0 0 37.717075 37.717075"
+   width="38.166088mm"
+   height="38.166088mm"
+   viewBox="0 0 38.166088 38.166088"
    version="1.1"
    id="svg5730"
    inkscape:version="0.92.1 r15371"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="42.628777"
-     inkscape:cy="34.073974"
+     inkscape:cx="40.252266"
+     inkscape:cy="64.322465"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -55,31 +55,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(239.47568,-172.94311)">
+     transform="translate(239.54143,-172.55984)">
     <g
        inkscape:groupmode="layer"
        id="layer3"
        inkscape:label="Layer 2">
       <rect
-         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.65568542;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.66349119;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect5088"
-         width="26.67"
-         height="26.67"
-         x="-33.710629"
-         y="278.28912"
+         width="26.987499"
+         height="26.987499"
+         x="-33.869381"
+         y="277.90585"
          transform="rotate(45)" />
       <rect
-         style="opacity:1;fill:#8ccfff;fill-opacity:1;stroke:none;stroke-width:1.91636074;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#8ccfff;fill-opacity:1;stroke:none;stroke-width:1.89215422;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect12265"
-         width="24.129999"
-         height="24.129999"
-         x="-32.440624"
-         y="279.55911"
+         width="23.825199"
+         height="23.825199"
+         x="-32.288235"
+         y="279.487"
          transform="rotate(45)" />
     </g>
     <g
        id="g6130-0"
-       transform="matrix(0.27377779,0,0,0.27377779,-236.7324,143.497)"
+       transform="matrix(0.27031955,0,0,0.27031955,-237.25679,143.9484)"
        style="display:inline;opacity:1;fill:#bbe3ff;fill-opacity:1;stroke:none">
       <g
          id="g6134-9"
@@ -134,14 +134,14 @@
          sodipodi:role="line">Impact</tspan></text>
     <text
        id="text12257"
-       y="196.26375"
-       x="-219.91754"
+       y="196.10498"
+       x="-220.65681"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.28888893px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan12259"
          style="font-size:11.28888893px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
-         y="196.26375"
-         x="-219.91754"
+         y="196.10498"
+         x="-220.65681"
          sodipodi:role="line">FEAT</tspan></text>
   </g>
 </svg>
