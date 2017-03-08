@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.4625mm"
+   height="17.4625mm"
+   viewBox="0 0 17.462499 17.462499"
+   version="1.1"
+   id="svg6419"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Fury.svg">
+  <defs
+     id="defs6413">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5604">
+      <path
+         d="m 90.504,486.49 h 9.939 v 9.937 h -9.939 z"
+         id="path5602"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5580">
+      <path
+         d="m 97.099588,501.12263 8.038392,-11.29066 -11.290925,-8.03859 -8.038397,11.29066 z"
+         id="path5578"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(7.0831947,-9.9489899,-9.9489899,-7.0831947,91.984581,496.35638)"
+       spreadMethod="pad"
+       id="linearGradient5594">
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0"
+         id="stop5582" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0.0467682"
+         id="stop5584" />
+      <stop
+         style="stop-opacity:1;stop-color:#e1e2e3"
+         offset="0.390869"
+         id="stop5586" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.630707"
+         id="stop5588" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0.943604"
+         id="stop5590" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="1"
+         id="stop5592" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5546">
+      <path
+         d="m 104.22168,493.57611 -6.127523,-11.11841 -11.324218,6.24095 6.127522,11.11841 z"
+         id="path5544"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-5.0626488,-9.1861954,-9.1861954,5.0626488,97.988975,495.96014)"
+       spreadMethod="pad"
+       id="linearGradient5560">
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0"
+         id="stop5548" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0.0467682"
+         id="stop5550" />
+      <stop
+         style="stop-opacity:1;stop-color:#e1e2e3"
+         offset="0.390869"
+         id="stop5552" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.630707"
+         id="stop5554" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="0.943604"
+         id="stop5556" />
+      <stop
+         style="stop-opacity:1;stop-color:#000000"
+         offset="1"
+         id="stop5558" />
+    </linearGradient>
+    <path
+       transform="scale(10,-10) translate(26,-26)"
+       id="p"
+       d="M 2.8117,-1.046 A 3 3 0 0 1 .5,2.958 V 4.5119 A 10.5 10.5 0 0 1 2,25.3078 V 25.8661 A 15 15 0 0 0 14.7975,8.5433 15 15 0 0 0 23.4007,-11.201 L 22.9172,-10.9218 A 10.5 10.5 0 0 1 4.1574,-1.8229 z M 6.2265,7.825 A 10 10 0 0 1 -6.2265,7.825 9.5 9.5 0 0 0 -8.4021,10.5667 13.5 13.5 0 0 0 8.4021,10.5667 10 10 0 0 0 6.2265,7.825 z" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="42.495647"
+     inkscape:cy="28.500903"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6416">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(111.30645,-188.29541)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504"
+       cx="-102.5752"
+       cy="197.05028"
+       r="8.7312489" />
+    <circle
+       style="opacity:1;fill:#80ff20;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504-5"
+       cx="-102.5752"
+       cy="197.05028"
+       r="7.1437502" />
+    <g
+       id="g6079"
+       transform="matrix(0.26458333,0,0,0.26458333,-85.945207,123.60999)">
+      <g
+         id="g6110"
+         transform="matrix(0.0915063,0,0,0.0915063,-86.598149,253.75079)">
+        <use
+           id="use6094"
+           xlink:href="#p"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           id="use6096"
+           transform="rotate(120,260,260)"
+           xlink:href="#p"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <use
+           id="use6098"
+           transform="rotate(-120,260,260)"
+           xlink:href="#p"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+      </g>
+    </g>
+  </g>
+</svg>
