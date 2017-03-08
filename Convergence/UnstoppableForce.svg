@@ -15,7 +15,7 @@
    version="1.1"
    id="svg5730"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Reconstruct.svg">
+   sodipodi:docname="UnstoppableForce.svg">
   <defs
      id="defs5724" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568542"
-     inkscape:cx="2.8916032"
+     inkscape:cx="33.03203"
      inkscape:cy="35.703413"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -55,7 +55,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,25 +93,30 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-223.29622"
+       x="-225.03168"
        y="203.48524"
        id="text4582"><tspan
          sodipodi:role="line"
          id="tspan4580"
-         x="-223.29622"
+         x="-225.03168"
          y="203.48524"
-         style="font-size:3.52777767px;stroke-width:0.26458332px">UP</tspan></text>
+         style="font-size:3.52777767px;stroke-width:0.26458332px">TURN</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-232.49548"
-       y="194.12926"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:89.99999762%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-221.44879"
+       y="192.30341"
        id="text4586"><tspan
          sodipodi:role="line"
-         id="tspan4584"
-         x="-232.49548"
-         y="194.12926"
-         style="font-size:3.88055563px;stroke-width:0.26458332px">RECONSTRUCT</tspan></text>
+         x="-221.44879"
+         y="192.30341"
+         style="font-size:3.88055563px;line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4596">UNSTOPPABLE</tspan><tspan
+         sodipodi:role="line"
+         x="-221.44879"
+         y="195.7959"
+         style="font-size:3.88055563px;line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4600">FORCE</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
