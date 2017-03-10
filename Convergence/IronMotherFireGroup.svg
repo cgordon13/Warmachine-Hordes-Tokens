@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="88mm"
-   height="63mm"
-   viewBox="0 0 88 63"
+   width="27.0002mm"
+   height="27.0002mm"
+   viewBox="0 0 27.0002 27.0002"
    version="1.1"
-   id="svg4513"
+   id="svg5730"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Feat.svg">
+   sodipodi:docname="IronMotherFireGroup.svg">
   <defs
-     id="defs4507" />
+     id="defs5724" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,24 +25,30 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="115.78607"
-     inkscape:cy="72.530028"
+     inkscape:zoom="4"
+     inkscape:cx="14.653576"
+     inkscape:cy="28.012696"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="false"
-     inkscape:bbox-nodes="false"
-     inkscape:snap-page="false"
-     inkscape:snap-bbox-midpoints="true"
      inkscape:window-width="2048"
      inkscape:window-height="1089"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:measure-start="52.9004,-0.0883888"
+     inkscape:measure-end="52.9004,9.81111" />
   <metadata
-     id="metadata4510">
+     id="metadata5727">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -57,30 +63,25 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-234)">
-    <rect
-       style="opacity:1;fill:#8ccfff;fill-opacity:1;stroke:none;stroke-width:0.29522026;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="rect5058"
-       width="87.704781"
-       height="62.704784"
-       x="0.14761013"
-       y="234.1476" />
+     transform="translate(234.91099,-179.09532)">
+    <circle
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       r="13.5001"
+       cy="192.59541"
+       cx="-221.41089"
+       id="path4500"
+       style="opacity:1;fill:#8ccfff;fill-opacity:1;stroke:none;stroke-width:3.60207725;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
        id="g6130-0"
-       transform="matrix(0.71969793,0,0,0.71969793,-0.72396716,138.5183)"
+       transform="matrix(0.24444445,0,0,0.24444445,-236.60133,149.46626)"
        style="display:inline;opacity:1;fill:#bbe3ff;fill-opacity:1;stroke:none">
       <g
          id="g6134-9"
          transform="matrix(0.47022939,0,0,0.47022939,1.4677589,128.32605)"
          style="fill:#bbe3ff;fill-opacity:1;stroke:none">
-        <path
-           style="display:inline;opacity:1;fill:#bbe3ff;fill-opacity:1;stroke:none;stroke-width:7.25261641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           id="path4520-6"
-           r="98.553612"
-           cy="107.15185"
-           cx="130.09021"
-           d=""
-           inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="ccsccsccccsscccccccssscsccsscscccccccccccssscsssscssssscsscccssssscscscssssccccccccsscscssccsccccssscccscssssccsscssscsscsssccscsccsccccscscccssssssscscscscscccsscssscscscs"
            style="display:inline;fill:#bbe3ff;fill-opacity:1;stroke:none;stroke-width:0.90796137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -91,14 +92,39 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.93374634px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8178792px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="14.076003"
-       y="278.91278"
-       id="text5089"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:125%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-221.43155"
+       y="203.48524"
+       id="text4582"><tspan
          sodipodi:role="line"
-         id="tspan5087"
-         x="14.076003"
-         y="278.91278"
-         style="stroke-width:1.8178792px">FEAT</tspan></text>
+         id="tspan4580"
+         x="-221.43155"
+         y="203.48524"
+         style="font-size:3.52777767px;text-align:center;text-anchor:middle;stroke-width:0.26458332px">TURN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.58611107px;line-height:89.99999762%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-221.46352"
+       y="194.40814"
+       id="text4586"><tspan
+         sodipodi:role="line"
+         x="-221.46352"
+         y="194.40814"
+         style="font-size:4.58611107px;line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4495">FIRE GROUP</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:inline"
+     transform="translate(234.91099,-179.09532)">
+    <ellipse
+       style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.24939837;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path4573"
+       cx="-221.41089"
+       cy="192.83611"
+       rx="11.781551"
+       ry="11.78155" />
   </g>
 </svg>
