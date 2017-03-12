@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.4625mm"
+   height="17.4625mm"
+   viewBox="0 0 17.4625 17.4625"
+   version="1.1"
+   id="svg4556"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="GrievousWounds.svg">
+  <defs
+     id="defs4550">
+    <linearGradient
+       id="linearGradient4503">
+      <stop
+         style="stop-color:#a6acaa;stop-opacity:1;"
+         offset="0"
+         id="stop4499" />
+      <stop
+         id="stop4507"
+         offset="0.49705881"
+         style="stop-color:#ececed;stop-opacity:1;" />
+      <stop
+         style="stop-color:#bab7bb;stop-opacity:1;"
+         offset="1"
+         id="stop4501" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.656854"
+     inkscape:cx="4.4749709"
+     inkscape:cy="46.690687"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4553">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.571355,-162.29402)">
+    <circle
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504"
+       cx="29.302605"
+       cy="171.02527"
+       r="8.7312489" />
+    <path
+       transform="translate(20.571355,162.29402)"
+       id="path4489"
+       d="m 11.820758,12.862613 c 0.05332,-0.03891 0.103751,-0.07781 0.15419,-0.119599 l 0.347282,0.09943 0.152745,0.648451 0.566311,-1.041849 -0.239206,-0.538936 c 0.03459,-0.04322 0.06773,-0.08501 0.09943,-0.131126 l 0.348722,0.0086 0.315579,0.586487 0.282437,-1.152802 -0.358811,-0.453914 c 0.02737,-0.06485 0.05476,-0.129688 0.08214,-0.197422 l 0.327108,-0.08214 0.458242,0.484174 -0.0317,-1.1873871 -0.459683,-0.3386341 c 0.0086,-0.060519 0.01585,-0.1196071 0.02161,-0.1801283 L 14.175351,9.1073502 14.743107,9.4560737 14.408795,8.3205638 13.882828,8.111618 c -0.0086,-0.074935 -0.02017,-0.1527464 -0.0317,-0.2276785 l 0.230549,-0.2248107 0.639805,0.1873309 -0.622514,-1.0115851 -0.554786,-0.05908 c -0.02161,-0.053316 -0.04323,-0.1037487 -0.06629,-0.1556285 L 13.642183,6.3521556 14.309369,6.3737716 13.453411,5.5524 12.902947,5.633096 c -0.04899,-0.063401 -0.0951,-0.126808 -0.145541,-0.1887695 l 0.0879,-0.3011692 0.647011,-0.1541881 -1.041846,-0.566314 -0.510115,0.2219141 C 11.888481,4.6042177 11.835166,4.5653125 11.78329,4.524964 l 0.0072,-0.3126974 0.586488,-0.3155802 -1.154244,-0.280996 -0.436628,0.344396 C 10.712619,3.9298222 10.64057,3.8981234 10.565638,3.8721857 L 10.489264,3.5652511 10.973438,3.1070086 9.7860509,3.1387104 9.4517384,3.5940676 c -0.0634,-0.00865 -0.1253665,-0.015847 -0.1873315,-0.023056 L 9.10878,3.2885743 9.4589432,2.7193783 8.3205499,3.0536909 8.1101634,3.5839796 c -0.073489,0.010085 -0.1455407,0.018734 -0.2190319,0.031702 L 7.6605623,3.3793668 7.8464511,2.73812 6.8348673,3.3606339 6.7714623,3.9370346 c -0.044668,0.018737 -0.089335,0.037473 -0.1325705,0.057641 L 6.3492524,3.8174325 6.3708673,3.1502473 5.5494987,4.0062076 l 0.08502,0.5836053 c -0.053317,0.038911 -0.106631,0.0807 -0.1570732,0.1224823 L 5.1416917,4.6186299 4.986063,3.9730607 4.4183073,5.0163479 4.6575137,5.5668113 c -0.030241,0.038925 -0.059082,0.076369 -0.086455,0.1152838 L 4.2079256,5.6763318 3.8937874,5.0884025 3.6127921,6.2397634 3.9917829,6.7138459 c -0.023052,0.057643 -0.047557,0.1138414 -0.067725,0.1714819 l -0.3602511,0.089343 -0.4596803,-0.485617 0.031701,1.1845043 0.5000283,0.364575 c -0.00575,0.043223 -0.011526,0.089336 -0.015847,0.1340101 l -0.3343094,0.1844524 -0.5677563,-0.351605 0.3343122,1.1355108 0.5792844,0.2247948 0.00288,-9.19e-5 c 0.00864,0.05476 0.014417,0.1095089 0.02306,0.1642693 L 3.3779044,9.8003634 2.7380997,9.6101513 l 0.6210717,1.0101427 0.6196317,0.06341 0.00576,-3.6e-5 c 0.012968,0.03025 0.024491,0.05908 0.037467,0.08934 l -0.204624,0.337193 -0.6671837,-0.02161 0.8559596,0.821368 0.6153087,-0.09366 0.010076,-0.0043 c 0.031739,0.04319 0.064842,0.08502 0.097981,0.126816 v 0 l -0.1110054,0.381925 -0.648451,0.152746 1.0389639,0.563432 0.5663141,-0.255057 0.00721,-0.0072 c 0.038923,0.03313 0.064846,0.05044 0.097986,0.07493 v 0 l -0.0072,0.399156 -0.5864887,0.31558 1.1513612,0.280997 0.4856197,-0.387629 0.00283,-0.0058 c 0.050431,0.02162 0.099426,0.04178 0.1498614,0.06053 l 0.095106,0.383307 -0.4841765,0.45824 1.1845049,-0.0317 0.3674566,-0.50291 0.00141,-0.0044 c 0.041783,0.0072 0.085008,0.01008 0.1282479,0.01585 L 8.3564239,14.170893 8.00482,14.738648 9.1403302,14.404335 9.3636854,13.832257 c 0.057636,-0.0058 0.1152726,-0.01441 0.1729181,-0.02306 l 0.2651544,0.273782 -0.1902117,0.639805 1.0101428,-0.621073 0.0634,-0.60522 c 0.03746,-0.01441 0.07349,-0.03027 0.108077,-0.04468 l 0.315581,0.191653 -0.02162,0.667185 0.821369,-0.85596 z M 9.7874999,9.7399579 c -0.5691967,0.5691971 -1.49432,0.5691961 -2.0635166,-10e-8 -0.5691963,-0.5691963 -0.5691968,-1.4943199 -1e-7,-2.0635166 0.5691963,-0.5691963 1.494321,-0.5691969 2.0635172,-6e-7 0.5691966,0.5691966 0.5706366,1.49288 -5e-7,2.0635173 z"
+       inkscape:connector-curvature="0"
+       style="display:inline;fill:#efefef;fill-opacity:1;stroke-width:0.02037886" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.22942948px;line-height:89.99999762%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17300515px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.284472"
+       y="170.8485"
+       id="text4542"><tspan
+         sodipodi:role="line"
+         id="tspan4540"
+         x="29.284472"
+         y="170.8485"
+         style="line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.17300515px">GRIEVOUS</tspan><tspan
+         sodipodi:role="line"
+         x="29.284472"
+         y="173.75497"
+         style="line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.17300515px"
+         id="tspan4511">WOUNDS</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <circle
+       transform="translate(-20.571355,-162.29402)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504-5"
+       cx="29.302605"
+       cy="171.02527"
+       r="7.1437497" />
+  </g>
+</svg>
