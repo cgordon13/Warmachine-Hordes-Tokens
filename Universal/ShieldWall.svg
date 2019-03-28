@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="17.4625mm"
+   height="17.4625mm"
+   viewBox="0 0 17.4625 17.4625"
+   version="1.1"
+   id="svg4556"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="ShieldWall.svg">
+  <defs
+     id="defs4550" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="33.028582"
+     inkscape:cy="28.362328"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4553">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.571355,-162.29402)">
+    <circle
+       style="opacity:1;fill:#b4b4b4;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504"
+       cx="29.323275"
+       cy="171.03354"
+       r="8.7312489" />
+    <g
+       id="g4508"
+       transform="matrix(0.0114413,0,0,0.0114413,25.045908,165.70451)"
+       style="fill:#e2e2e2;fill-opacity:1;stroke:none">
+      <g
+         id="g8"
+         style="fill:#e2e2e2;fill-opacity:1;stroke:none">
+        <title
+           id="title4">Layer 1</title>
+        <g
+           id="layer1-1"
+           style="fill:#e2e2e2;fill-opacity:1;stroke:none">
+          <path
+             inkscape:connector-curvature="0"
+             id="path2778"
+             d="m 16.044922,42.138672 c 0,481.357288 -1.373046,271.901528 -1.373047,463.777348 0,191.87583 210.812195,427.69941 356.679685,504.30668 134.98392,-70.89139 353.552,-304.22041 356.67969,-504.30668 3.12769,-200.0863 0,-252.34377 0,-463.777348 z M 31.67883,61.472656 h 339.66101 c 0.29835,299.588784 0,430.003354 0,929.792964 C 303.30839,953.24043 219.2499,878.94578 152.49023,791.87695 82.999014,701.24559 31.67883,591.12754 31.67883,507.37325 Z"
+             style="fill:#e2e2e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.80600023;stroke-miterlimit:4"
+             sodipodi:nodetypes="cscscccccssc" />
+        </g>
+      </g>
+      <g
+         style="fill:#e2e2e2;fill-opacity:1;stroke:none"
+         id="g8-9"
+         transform="translate(17.015266,-3.5319692)">
+        <title
+           id="title4-7">Layer 1</title>
+        <g
+           style="fill:#e2e2e2;fill-opacity:1;stroke:none"
+           id="layer1-0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:89.99999762%;font-family:Impact;-inkscape-font-specification:Impact;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.32741"
+       y="170.82869"
+       id="text4542"><tspan
+         sodipodi:role="line"
+         id="tspan4540"
+         x="29.32741"
+         y="170.82869"
+         style="font-size:4.23333311px;line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.26458332px">SHIELD</tspan><tspan
+         sodipodi:role="line"
+         x="29.32741"
+         y="174.63869"
+         style="font-size:4.23333311px;line-height:89.99999762%;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
+         id="tspan4510">WALL</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     style="display:none">
+    <circle
+       transform="translate(-20.571355,-162.29402)"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path5504-5"
+       cx="29.302605"
+       cy="171.02527"
+       r="7.1437497" />
+  </g>
+</svg>
